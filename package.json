@@ -1,0 +1,12 @@
+{
+  "name": "pkg-271",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "pkg": "pkg --debug index.js"
+  },
+  "dependencies": {
+    "pkg": "^4.3.0-beta.1"
+  }
+}
